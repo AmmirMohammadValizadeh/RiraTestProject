@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiraTestProject", "RiraTestProject\RiraTestProject.csproj", "{FDAE0729-B822-4EB9-B896-EDC866AAF486}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rira.Main", "RiraTestProject\Rira.Main.csproj", "{FDAE0729-B822-4EB9-B896-EDC866AAF486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rira.Presentation", "Rira.Presentation\Rira.Presentation.csproj", "{1E159FDD-F771-43AD-B02F-759CD6BE9861}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FDAE0729-B822-4EB9-B896-EDC866AAF486}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDAE0729-B822-4EB9-B896-EDC866AAF486}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDAE0729-B822-4EB9-B896-EDC866AAF486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E159FDD-F771-43AD-B02F-759CD6BE9861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E159FDD-F771-43AD-B02F-759CD6BE9861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E159FDD-F771-43AD-B02F-759CD6BE9861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E159FDD-F771-43AD-B02F-759CD6BE9861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
